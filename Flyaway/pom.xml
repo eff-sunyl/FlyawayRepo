@@ -44,15 +44,16 @@
         <configuration>
           <source>1.8</source>
           <target>1.8</target>
-          <url>http://localhost:7070/manager/text</url>
-          <server>TomcatServer</server>
-          <path>/Flyaway</path>
+
         </configuration>
       </plugin>
       <plugin>
         <artifactId>maven-war-plugin</artifactId>
         <version>3.2.3</version>
         <configuration>
+                    <url>http://localhost:7070/manager/text</url>
+          <server>TomcatServer</server>
+          <path>/Flyaway</path>
           <warSourceDirectory>WebContent</warSourceDirectory>
         </configuration>
       </plugin>
