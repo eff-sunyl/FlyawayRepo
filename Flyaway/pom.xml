@@ -44,6 +44,9 @@
         <configuration>
           <source>1.8</source>
           <target>1.8</target>
+          <url>http://localhost:8080/manager/text</url>
+          <server>TomcatServer</server>
+          <path>/Flyaway</path>
         </configuration>
       </plugin>
       <plugin>
