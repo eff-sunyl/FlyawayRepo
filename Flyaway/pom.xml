@@ -54,7 +54,7 @@
                     <url>http://localhost:7070/manager/text</url>
           <server>TomcatServer</server>
           <path>/Flyaway</path>
-          <warSourceDirectory>WebContent</warSourceDirectory>
+          <warSourceDirectory>target</warSourceDirectory>
         </configuration>
       </plugin>
     </plugins>
