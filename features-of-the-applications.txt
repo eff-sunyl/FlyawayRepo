@@ -1,0 +1,46 @@
+Features of Flyaway:
+
+For Users:
+
+1. Users can search for flights on landing page.
+2. Each search will return available flights.
+3. Book now feature on the results will enable to book the flights.
+4. You will be prompted to login to the application if you are already registered.
+5. You can sign up as a new user.
+6. After signing in, you can add passenger details.
+7. confirm your details and then pay for the flights.
+8. Get the ticket details.
+
+
+For Admin, following features are enabled:
+
+1.  An admin login page where the admin can change the password after login, if he wishes
+2.  A master list of places for source and destination
+3.  A master list of airlines
+4.  A list of flights where each flight has a source, destination, airline, and ticket price
+
+
+Limitations:
+1. Only 10 tickets can be booked per flight.
+2. There are about 20 flights.
+3. There are 4 places( Bangalore, hyderabad, chennai, delhi).
+4. Seat selection is not enabled.
+
+
+Technical limitations:
+1. The database is hosted and exposed to internet from my laptop.
+2. You need to deploy the packaged application on your Webserver like tomcat.
+
+
+Note: This application when deployed on your webserver should have internet connectivity.
+
+
+Passwords:
+1. User level- ratboddu/Welcome2ibm$
+2. Admin level- admin/admin123
+
+
+
+
+
+
