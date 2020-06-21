@@ -11,3 +11,6 @@ I have also deployed this app in my lab instance -
 http://localhost:7070/Flyaway-0.0.1-SNAPSHOT
 
 
+Exception: When you enter passenger names, pl enter only first names and do not include spaces.
+
+
