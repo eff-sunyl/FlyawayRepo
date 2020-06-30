@@ -1,3 +1,4 @@
+Note: I have exposed the http port the running application. Mysql port is not exposed any longer.
 Pre requisites:
 1. Maven should be installed.
 2. Git should be installed.
@@ -30,5 +31,13 @@ Steps to run:
 
 
 10.Follow the features of the application to navigate the application.
+
+Note: The above steps will not work cause you need to create your own instance of mysql and create the required data. I waited for 10 days for you all to verify using my sql port. Now I have exposed the http port.
+
+Public url is https://7ffe3111b3eb.ngrok.io/Flyaway/
+Please verify asap because i can not have this url exposed for a long time.
+
+If you need any assistance pl reach out to me on email or phone.
+
 
 
